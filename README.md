@@ -12,7 +12,7 @@ Pour lancer le projet en mode développement :
 mvn quarkus:dev 
 ```
 
-Le mode développement intègre automatique Swwager UI.
+Le mode développement intègre automatiquement Swagger UI.
 Ce n'est pas le cas du packaging native-image.
 Pour l'activer, il faut ajouter une propriété dans le fichier `application.properties`
 ```
